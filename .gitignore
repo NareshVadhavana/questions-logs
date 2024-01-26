@@ -1,5 +1,4 @@
 # Node artifact files
 node_modules/
-
-# # Log files
-*.log
+package-lock.json
+logs/
